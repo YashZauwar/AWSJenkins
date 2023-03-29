@@ -11,7 +11,7 @@ from tkinter import Tk, Toplevel, Event, TclError, StringVar, Frame, Menu, Label
 from tkinter.ttk import Combobox, Button
 from typing import Union, Optional, List, Dict, Tuple, TextIO, Any
 
-import bs4
+import bs4 
 import pandas
 import requests
 import streamtologger
